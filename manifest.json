@@ -9,5 +9,5 @@
    "name": "ng-show-all",
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1"
+   "version": "1.1"
 }
